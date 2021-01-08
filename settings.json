@@ -1,0 +1,37 @@
+{
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "breadcrumbs.enabled": false,
+    "editor.minimap.showSlider": "always",
+    "workbench.colorCustomizations":{
+        "[JSFiddle-like-syntax-vscode]":{
+            "editorLineNumber.foreground":"#aaaaaa",
+            "editorGutter.background":"#E5E7E8",
+            "editorIndentGuide.background":"#dddddd",
+            "editorIndentGuide.activeBackground":"#dddddd",
+            "editor.selectionBackground": "#8a88ff7c",
+            "editor.selectionHighlightBackground": "#8a88ff7c"
+        },
+        "[Solarized Light]": {
+            "editor.selectionHighlightBackground": "#dddddd",
+            "editor.selectionBackground": "#aa888f3c",
+            "editorGutter.background":"#aaa88f2c"
+        }
+    },
+    "workbench.editor.labelFormat": "short",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Solarized Light",
+    "highlightLine.borderColor": "#AAAAAA",
+    "highlightLine.borderStyle": "solid",
+    "highlightLine.borderWidth": "1px",
+    "latex-workshop.latex.autoBuild.run": "never",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
